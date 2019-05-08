@@ -1,5 +1,7 @@
 # FiveStar Property Scrapy Scraper
 
+<a href="https://codeclimate.com/github/Firiyuu/scrapy-fivestarproperties/maintainability"><img src="https://api.codeclimate.com/v1/badges/bc9c6e930ec3c029ac3f/maintainability" /></a>
+
 Scraping a javascript-based website using scrapy and a lil' bit of selenium, saved to mongodb.
 
 It saves:
